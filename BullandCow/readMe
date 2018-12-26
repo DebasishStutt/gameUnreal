@@ -1,2 +1,30 @@
-Sample game for reviewing C++ constructs.
-Nothing fruitful but can help in a quick C++ review or intro.
+Game Design Document
+
+Name: Bulls and Cows
+
+Purpose/Goal:
+
+Review C++ coding constructs.
+Learn Unreal Coding style as per their guide.
+Get a grasp of OO programming towards an app development.
+
+
+Concept and Rules:
+
+Guess the ISOGRAM game.
+Isogram implies a word without repeating letters.
+Limited number of guesses.
+After each guess
+Bulls: right letter at right place
+Cows: right letter wrong place
+
+Requirements:
+
+Input: 
+Length of the word to be guessed.
+Letters/words of the predefined length.
+Outputs: Messages regarding:
+Bulls and Cows
+Error messages
+Help messages
+Hints??
